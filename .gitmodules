@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:keratin7/keratin7.github.io.git
-	branch = master
